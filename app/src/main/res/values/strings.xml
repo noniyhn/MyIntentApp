@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyIntentApp</string>
+    <string name="halaman_move_activity">Halaman berpindah, selamat datang Noni Yohana</string>
+    <string name="move_activity">Halaman Pertama</string>
+    <string name="move_with_data">Halaman Kedua</string>
+    <string name="data_received" />
+    <string name="move_with_object">Halaman Ketiga</string>
+    <string name="object_received" />
+</resources>
